@@ -33,8 +33,9 @@ os, time -	Gerenciamento de arquivos e controle de tempo (nativo do Python).
 
 🔧 Instalação
 1. Clone o repositório:
-    git clone https://github.com/seu-usuario/luna-assistente.git
-    cd luna-assistente
+    git clone https://github.com/sarmanhodev/luna_assistente_virtual.git
+    cd luna_assistente_virtual
+
 
 2. Crie um ambiente virtual (recomendado):
    python -m venv venv
